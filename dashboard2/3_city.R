@@ -13,7 +13,7 @@ library(jsonlite)
 library(tidyverse)
 library(leaflet)
 
-key="AIzaSyB9yfhosjbjh7sN4WNGrvaxW9pLruFcO4o"
+key="Aquí la llave de API"
 
 #Función para buscar y reemplazar texto
 
